@@ -5,6 +5,9 @@ Categorize awesome things in javascript
 - [Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ) fundamental of how javascript work 
 - [Demonstration of event loop](http://latentflip.com/loupe/) website
 
+### Async and Await
+- [Async and Await Loop](https://zellwk.com/blog/async-await-in-loops/)
+
 ### Map, Filter and Reduce  
 - [Explanation](https://medium.com/@js_tut/map-filter-and-reduce-animated-7fe391a35a47)
 
