@@ -4,6 +4,7 @@ Categorize awesome things in javascript
 ### Fundamental JavaScript
 - [Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ) fundamental of how javascript work 
 - [Demonstration of event loop](http://latentflip.com/loupe/) website
+- [Learning Functional Programming](https://www.youtube.com/watch?v=e-5obm1G_FY&fbclid=IwAR0rfqeJJAIq0GzJEx9V-nlfn_ZAa7ECsQDyvonxT7gnfqNICSLdTw6Db3U) in JavaScript
 
 ### Async and Await
 - [Async and Await Loop](https://zellwk.com/blog/async-await-in-loops/) explanation
