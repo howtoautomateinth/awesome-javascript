@@ -19,3 +19,6 @@ Categorize awesome things in javascript
 ### Youtbe interesting list ###
 - [Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) (Fun Fun Function
 )
+
+### Interesting Library 
+- [Dependency Injection](https://www.npmjs.com/package/inversify)
