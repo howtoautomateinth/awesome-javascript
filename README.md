@@ -13,12 +13,14 @@ Categorize awesome things in javascript
 ### Map, Filter and Reduce  
 - [Explanation](https://medium.com/@js_tut/map-filter-and-reduce-animated-7fe391a35a47)
 
+### Export & Import 
+- [Named Export vs Default Export in ES6](https://medium.com/@etherealm/named-export-vs-default-export-in-es6-affb483a0910)
+
 ### VS Code plugins
 - [Quokka.js](https://quokkajs.com/) is a rapid prototyping playground for JavaScript and TypeScript. It runs your code immediately as you type and displays various execution results in your code editor.
 
-### Youtbe interesting list ###
-- [Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) (Fun Fun Function
-)
+## Youtube interesting list 
+- [Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) (Fun Fun Function)
 
-### Interesting Library 
+## Interesting Library 
 - [Dependency Injection](https://www.npmjs.com/package/inversify)
