@@ -26,4 +26,5 @@ Categorize awesome things in javascript
 - [Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) (Fun Fun Function)
 
 ## Interesting Library 
-- [Dependency Injection](https://www.npmjs.com/package/inversify)
+- [Inversify](https://www.npmjs.com/package/inversify) Dependency Injection 
+> [Explaination](https://stackoverflow.com/questions/46867437/in-inversify-why-to-prefer-constructor-factory-injection-over-todynamicvalue/47055959#47055959) constructor way in inversify
