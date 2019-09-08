@@ -24,6 +24,7 @@ Categorize awesome things in javascript
 
 ## Youtube interesting list 
 - [Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) (Fun Fun Function)
+- [JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY&fbclid=IwAR0vSDXardUEU73ImUqCLMgHF_XfNOR95ONTnNXtqBoKbOxV14Koygl0F5o) - Learning Functional Programming with JavaScript - Anjana Vakil
 
 ## Interesting Library 
 - [Inversify](https://www.npmjs.com/package/inversify) Dependency Injection 
