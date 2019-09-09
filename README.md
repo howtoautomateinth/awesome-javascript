@@ -13,6 +13,9 @@ Categorize awesome things in javascript
 ### Map, Filter and Reduce  
 - [Explanation](https://medium.com/@js_tut/map-filter-and-reduce-animated-7fe391a35a47)
 
+### Bind, Apply, Call
+- [Bind](https://stackoverflow.com/questions/2236747/what-is-the-use-of-the-javascript-bind-method) explaination 
+
 ### Export & Import 
 - [Named Export vs Default Export in ES6](https://medium.com/@etherealm/named-export-vs-default-export-in-es6-affb483a0910)
 
