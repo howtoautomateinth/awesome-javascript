@@ -6,7 +6,8 @@ Categorize awesome things in javascript
 - [Demonstration of event loop](http://latentflip.com/loupe/) website
 - [Learning Functional Programming](https://www.youtube.com/watch?v=e-5obm1G_FY&fbclid=IwAR0rfqeJJAIq0GzJEx9V-nlfn_ZAa7ECsQDyvonxT7gnfqNICSLdTw6Db3U) in JavaScript (JSConf)
 
-### Async and Await
+### Asynchronus 
+- [Fundamental of Promise](https://javascript.info/promise-basics)
 - [Async and Await Loop](https://zellwk.com/blog/async-await-in-loops/) explanation
 - [Foreach Async](https://codeburst.io/javascript-async-await-with-foreach-b6ba62bbf404) explanation 
 
