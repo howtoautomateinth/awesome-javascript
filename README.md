@@ -5,6 +5,7 @@ Categorize awesome things in javascript
 - [Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ) fundamental of how javascript work 
 - [Demonstration of event loop](http://latentflip.com/loupe/) website
 - [Learning Functional Programming](https://www.youtube.com/watch?v=e-5obm1G_FY&fbclid=IwAR0rfqeJJAIq0GzJEx9V-nlfn_ZAa7ECsQDyvonxT7gnfqNICSLdTw6Db3U) in JavaScript (JSConf)
+- [What is process.env](https://codeburst.io/process-env-what-it-is-and-why-when-how-to-use-it-effectively-505d0b2831e7) and when to use it
 
 ### Asynchronus 
 - [Fundamental of Promise](https://javascript.info/promise-basics)
