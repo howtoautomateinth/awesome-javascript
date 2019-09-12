@@ -25,7 +25,7 @@ Categorize awesome things in javascript
 - [Quokka.js](https://quokkajs.com/) is a rapid prototyping playground for JavaScript and TypeScript. It runs your code immediately as you type and displays various execution results in your code editor.
 - [Prettier Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
 
-## VS code references
+### VS code references
 - [Launch configuration](https://code.visualstudio.com/docs/editor/debugging) for Debugging
 
 ## Work Techniques
