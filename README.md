@@ -21,9 +21,12 @@ Categorize awesome things in javascript
 ### Export & Import 
 - [Named Export vs Default Export in ES6](https://medium.com/@etherealm/named-export-vs-default-export-in-es6-affb483a0910)
 
-### VS Code plugins
+### VS Code plugins 
 - [Quokka.js](https://quokkajs.com/) is a rapid prototyping playground for JavaScript and TypeScript. It runs your code immediately as you type and displays various execution results in your code editor.
 - [Prettier Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
+
+## VS code references
+- [Launch configuration](https://code.visualstudio.com/docs/editor/debugging) for Debugging
 
 ## Work Techniques
 - "Seperate Modules" based on folder and create "index.ts" for import everything to easier manipulate things
